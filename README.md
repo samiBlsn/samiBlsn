@@ -56,7 +56,7 @@ Je construis actuellement ce portfolio pour documenter mes labs et projets en cy
 | | |
 |---|---|
 | 🟡 **CompTIA Security+ SY0-701** | En cours de préparation (2026) |
-| ✅ **TryHackMe SAL1** | Security Analyst Level 1 — Complété (2026) |
+| ✅ **TryHackMe SAL1** | Path SOC Level 1 — Complété (2026) |
 
 ---
 
@@ -64,3 +64,7 @@ Je construis actuellement ce portfolio pour documenter mes labs et projets en cy
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sami_Boulsnane-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sami-boulsnane-510685271/)
 [![Email](https://img.shields.io/badge/Email-boulsnane.sami@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:boulsnane.sami@gmail.com)
+
+## Autres
+
+- [Mon profil TryHackMe](https://tryhackme.com/p/Samim68)
