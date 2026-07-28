@@ -46,6 +46,7 @@ Je construis actuellement ce portfolio pour documenter mes labs et projets en cy
 | Projet | Description | Stack |
 |--------|-------------|-------|
 | 🔬 [SOC-HomeLab](https://github.com/samiBlsn/SOC-HomeLab) | Lab SOC avec Wazuh SIEM/EDR, Active Directory et simulation d'attaques | Wazuh, VMware, Windows Server |
+| 🛡️ [AD-Security-Audit](https://github.com/samiBlsn/AD-Security-Audit) | Audit de sécurité Active Directory avec PingCastle, scoring de risque et plan de remédiation | PingCastle, Windows Server 2022, Active Directory |
 
 > 🚧 Projets en cours de construction — mis à jour régulièrement
 
@@ -57,6 +58,7 @@ Je construis actuellement ce portfolio pour documenter mes labs et projets en cy
 |---|---|
 | 🟡 **CompTIA Security+ SY0-701** | En cours de préparation (2026) |
 | ✅ **TryHackMe SAL1** | Path SOC Level 1 — Complété (2026) |
+
 
 ---
 
