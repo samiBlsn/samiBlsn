@@ -56,7 +56,7 @@ Je construis actuellement ce portfolio pour documenter mes labs et projets en cy
 
 | | |
 |---|---|
-| 🟡 **CompTIA Security+ SY0-701** | En cours de préparation (2026) |
+| 🟡 **SC-200 : Analyste des opérations de sécurité Microsoft** | Obtenue (Octobre 2026) |
 | ✅ **TryHackMe SAL1** | Path SOC Level 1 — Complété (2026) |
 
 
